@@ -6,7 +6,7 @@
 
 也可以通过微信联系我。
 
-![微信](https://github.com/Brucepk/pk.github.io/blob/master/wx.jpg)
+![微信](https://github.com/Brucepk/pk.github.io/blob/master/pkwx.jpg)
 
 之前给大家分享了怎么用 itchat 库制作微信朋友性别统计图，今天给大家介绍一个更强大的库：wxpy 库。
 
